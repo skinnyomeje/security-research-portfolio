@@ -182,4 +182,4 @@ Medium:
 https://medium.com/@SkinneeOmeje
 
 GitHub:
-https://github.com/skinneomeje
+https://github.com/skinnyomeje
