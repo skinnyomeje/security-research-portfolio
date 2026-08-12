@@ -119,7 +119,7 @@ Rust-based Solana staking vault developed to study:
 - Local validator testing
 
 Repository:
-https://github.com/skinneomeje/staking_vault
+https://github.com/skinnyomeje/staking_vault
 
 ---
 
